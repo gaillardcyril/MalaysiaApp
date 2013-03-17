@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Coburg Market Halal Meat</string>
+		<key>Latitude</key>
+		<real>-37.743469</real>
+		<key>Longitude</key>
+		<real>144.966102</real>
+		<key>Address</key>
+		<string>7/419 Sydney Road, Coburg VIC 3058</string>
+		<key>Phone</key>
+		<string>03 93548020</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Macca Halal Meats</string>
+		<key>Latitude</key>
+		<real>-37.788115</real>
+		<key>Longitude</key>
+		<real>144.930224</real>
+		<key>Address</key>
+		<string>316 Racecourse Road, Flemington</string>
+		<key>Phone</key>
+		<string>03 93722755</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Madina Halal Meats</string>
+		<key>Latitude</key>
+		<real>-37.759163</real>
+		<key>Longitude</key>
+		<real>144.963398</real>
+		<key>Address</key>
+		<string>755 Sydney Road, Brunswick</string>
+		<key>Phone</key>
+		<string>03 93860770</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Melbourne Meat Co</string>
+		<key>Latitude</key>
+		<real>-37.766033</real>
+		<key>Longitude</key>
+		<real>144.953957</real>
+		<key>Address</key>
+		<string>419 Victoria Street, Brunswick</string>
+		<key>Phone</key>
+		<string>03 93881144</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Richmond Halal Meat</string>
+		<key>Latitude</key>
+		<real>-37.810801</real>
+		<key>Longitude</key>
+		<real>145.002451</real>
+		<key>Address</key>
+		<string>328 Victoria Street, Richmond</string>
+		<key>Phone</key>
+		<string>03 94242028</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Halal Meats Istanbul</string>
+		<key>Latitude</key>
+		<real>-37.762912</real>
+		<key>Longitude</key>
+		<real>144.962797</real>
+		<key>Address</key>
+		<string>609 Sydney Road, Brunswick</string>
+		<key>Phone</key>
+		<string>03 93804895</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ali Meats</string>
+		<key>Latitude</key>
+		<real>-37.761691</real>
+		<key>Longitude</key>
+		<real>144.962969</real>
+		<key>Address</key>
+		<string>655 Sydney Road, Brunswick</string>
+		<key>Phone</key>
+		<string>03 93846996</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Brunswick Halal Poultry</string>
+		<key>Latitude</key>
+		<real>-37.761453</real>
+		<key>Longitude</key>
+		<real>144.963098</real>
+		<key>Address</key>
+		<string>667 Sydney Road, Brunswick</string>
+		<key>Phone</key>
+		<string>03 93861591</string>
+	</dict>
+</array>
+</plist>

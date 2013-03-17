@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Papparich</string>
+		<key>baseName</key>
+		<string>PappaRich</string>
+		<key>Location</key>
+		<string>(QV in Melbourne CBD)</string>
+		<key>Blurb</key>
+		<string>Authentic Malaysian Cuisine</string>
+		<key>Video</key>
+		<string>Video1.mov</string>
+		<key>NumberMenuPhotos</key>
+		<integer>30</integer>
+		<key>NumberPhotos</key>
+		<integer>5</integer>
+		<key>Description</key>
+		<string>
+
+The PappaRich Group
+		
+PappaRich Group was established in 2005 with its 1st outlet in Kuala Lumpur, Malaysia. Today, PappaRich has grown extensively and with a total of 50 outlets in Malaysia and continuously growing rapidly internationally. We are emerging as a formidable player in the local and international food and beverage industry.
+With three new outlets in Australia – QV, Doncaster and Chadstone, the PappaRich Group is now embarking on further international expansion to places such as Singapore (launched in September 2012), Indonesia and greater China to name a few.
+The popularity of PappaRich internationally, is attributed largely to the introduction of its high quality food offerings such as freshly-made roti canai, traditional Hainan bread with kaya and butter, satay, nasi lemak, fried kuey teow, curry laksa, assam laksa, chicken rice, prawn mee, mee goreng, ice kacang and many more!
+We only use high quality ingredients to bring out the best in Malaysian Delights. Beside a wide range of delicious food, we have also created more  than 60 types of beverages, from PappaRich range of specially blended local coffee and tea to organic soya milk and juices.
+With our open concept, you are able to see the Pappa white coffee, roti canai being prepared on the spot, adding a whole new dimension to your dining experience.
+Our outlets are decorated in earthy colours to give a cozy, clean and comfortable ambience that suit the needs of those who want either a quick bite or a relaxing leisurely meal.
+
+PappaRich Australia 
+
+PappaRich Australia, a joint-venture with PappaRich Malaysia, opened its first outlets in QV, Doncaster and Chadstone in March, April and May 2012 respectively. Saw Tatt Ghee, Head of the Australian operations found the need for a truly authentic Malaysian home cuisine in Australia. This opportunity serves well within the growing Asian community.
+
+Our Future Plans
+
+Looking forward, we continue to seek strategic opportunities for building our core business and activities. This also means a continued investment of resources and money to improve our human capital, production process and product quality.
+With current outlets in QV, Doncaster and Chadstone, an outlet in Nunawading is also in the pipeline with other states to follow.
+PappaRich aspires to provide good Malaysian food all over the world. 
+
+</string>
+		<key>ThumbPhoto</key>
+		<string>papparichThumb.jpg</string>
+		<key>Latitude</key>
+		<real>-37.823582</real>
+		<key>Longitude</key>
+		<real>144.959529</real>
+		<key>Address</key>
+		<string>230 swanston, st</string>
+		<key>Phone</key>
+		<string>03 04 138 043</string>
+		<key>Website</key>
+		<string>http://www.google.com</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ChilliPadi</string>
+		<key>Location</key>
+		<string>(Melbourne Central)</string>
+		<key>Blurb</key>
+		<string>Wide range of Malaysian Cuisine</string>
+		<key>Video</key>
+		<string>Video1.mov</string>
+		<key>Description</key>
+		<string>Chillipadi Melbourne Central is a sleek and stylish restaurant designed by Chris Cornell. The upstairs main dining room has an adjacent outdoor bridge area ideal for pre dinner cocktail drinks on balmy evenings.
+
+Here at Chillipadi we believe that Asian food should constantly evolve and adapt and our team creates traditional dishes combining Asian ingredients with local produce and using both modern and traditional Asian cooking techniques with exciting contemporary design presentation template. Our cuisine pan across Asia from India through to South East Asia and up China and Japan and so do our kitchen team.
+
+Five dining areas including Outdoor cafe, Wine Garden Terrace, Bistro dining, upstairs casual/ formal/corporate dining and an open-air bridge area with city view. 
+
+We offer something for everyone from corporate clients, shoppers, tourists and students and city residents. Because of the varied profile of our guests, Chillipadi has a design your own banquet to match preferences and budget. We can organise corporate meetings or special celebration functions.
+
+Throughout the year we host several themed events ranging from Nyonya Buffet, Chinese New Year Celebration Banquets, Roti Festivals, Hawker Style Street Food Crawl and Laksa Parties. Currently we are very excited to introduce our newest feasting extravaganza , The Peking Duck Feast where we are serving 6 courses of duck dishes including a salted duck egg yolk butter donut for dessert for $35 pp.
+
+For night owls were have Mamak Kopitiam style supper on Fridays and Saturdays till 5 am.
+
+Chillipadi is fully licensed and has a general license till 3 am.    
+
+We provide corporate lunch catering service and deliver around Melbourne CBD. Chillipadi also caters for offsite special events and weddings.
+
+</string>
+		<key>ThumbPhoto</key>
+		<string>ChiliPadi0.jpg</string>
+		<key>NumberMenuPhotos</key>
+		<integer>4</integer>
+		<key>NumberPhotos</key>
+		<integer>9</integer>
+		<key>baseName</key>
+		<string>chillipadi</string>
+		<key>Latitude</key>
+		<real>-37.823582</real>
+		<key>Longitude</key>
+		<real>144.959529</real>
+		<key>Address</key>
+		<string>230 swanston, st</string>
+		<key>Phone</key>
+		<string>03 04 138 043</string>
+		<key>Website</key>
+		<string>http://www.google.com</string>
+	</dict>
+</array>
+</plist>

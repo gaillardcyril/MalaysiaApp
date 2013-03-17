@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Indomix Asian Grocery</string>
+		<key>Latitude</key>
+		<real>-37.800697</real>
+		<key>Longitude</key>
+		<real>144.962561</real>		
+		<key>Address</key>
+		<string>174 Bouverie St, Carlton, Vic 3053</string>
+		<key>Phone</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Minh Phat Asian Groceries</string>
+		<key>Latitude</key>
+		<real>-37.809547</real>
+		<key>Longitude</key>
+		<real>144.996486</real>		
+		<key>Address</key>
+		<string>2-8 Nicholson St, Abbotsford, Vic, 3067</string>
+		<key>Phone</key>
+		<string>03 94294028</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yahweh Asian Grocery</string>
+		<key>Latitude</key>
+		<real>-37.802664</real>
+		<key>Longitude</key>
+		<real>144.96387</real>		
+		<key>Address</key>
+		<string>600 Swanston Street, Melbourne 3053</string>
+		<key>Phone</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Laguna Oriental and Indonesian Supermarket</string>
+		<key>Latitude</key>
+		<real>-37.818395</real>
+		<key>Longitude</key>
+		<real>145.036354</real>		
+		<key>Address</key>
+		<string>772, Glenferrie Road, Hawthorn</string>
+		<key>Phone</key>
+		<string>03 98185581</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Fuji Mart</string>
+		<key>Latitude</key>
+		<real>-37.845783</real>
+		<key>Longitude</key>
+		<real>144.993696</real>		
+		<key>Address</key>
+		<string>34A, Elizabeth Street, South Yarra</string>
+		<key>Phone</key>
+		<string>03 98265839</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Central Grocery</string>
+		<key>Latitude</key>
+		<real>-37.810089</real>
+		<key>Longitude</key>
+		<real>144.962239</real>		
+		<key>Address</key>
+		<string>Level LG, Melbourne Central</string>
+		<key>Phone</key>
+		<string>03 96392803</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Shahi India</string>
+		<key>Latitude</key>
+		<real>-37.864588</real>
+		<key>Longitude</key>
+		<real>145.028114</real>		
+		<key>Address</key>
+		<string>12 Glenferrie Rd, Malvern, 3144</string>
+		<key>Phone</key>
+		<string>1300 855187</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Rich Maha Asian Groceries</string>
+		<key>Latitude</key>
+		<real>-37.85633</real>
+		<key>Longitude</key>
+		<real>145.183176</real>		
+		<key>Address</key>
+		<string>Shop 4, 501 Burwood Highway, Vermont South</string>
+		<key>Phone</key>
+		<string>03 98877663</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hindustan Imports</string>
+		<key>Latitude</key>
+		<real>-38.016249</real>
+		<key>Longitude</key>
+		<real>145.224624</real>		
+		<key>Address</key>
+		<string>50 Greens Road, Dandenong South, Vic 3175</string>
+		<key>Phone</key>
+		<string>03 9794640</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lee’s Asian Grocery</string>
+		<key>Latitude</key>
+		<real>-37.84641</real>
+		<key>Longitude</key>
+		<real>144.992216</real>		
+		<key>Address</key>
+		<string>163, Commercial Road, South Yarra, 3141</string>
+		<key>Phone</key>
+		<string>03 98266039</string>
+	</dict>
+</array>	
+</plist>
